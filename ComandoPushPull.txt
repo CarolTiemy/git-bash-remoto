@@ -1,0 +1,3 @@
+Comando Push e Pull
+Push: significa empurrar, corresponde ao ato de enviar o respositório local para um repositório remoto 
+Pull: significa puxar, corresponde ao ato contrário, pegar
